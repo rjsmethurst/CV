@@ -9,6 +9,14 @@ body {
 	margin-right: 20%;
 }
 
+.address {
+	text-align: center;
+}
+
+.contact {
+	text-align: center;
+}
+
 div {
 	font-family: Trebuchet MS, sans-serif;
 	font-size: 0.9em;
